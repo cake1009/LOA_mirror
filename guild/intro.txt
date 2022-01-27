@@ -1,0 +1,108 @@
+		<main>
+			<section>
+				<h1>거울은 좋겠다 매일 널 보니까</h1>
+				<div class="SetPaddingL">
+					<ol>
+						<li><strong>어서오세요. 로스트아크 카제로스서버 [거울은 좋겠다 매일 널 보니까] 길드 홈페이지입니다.</strong></li>
+						<li><strong>길드원과 함께 소통하는 길드</strong><p>길드원끼리 원활한 소통, 타협, 개선을 바탕으로 서로의 의견을 존중하여 반영하여 허무 길드엔 부마가 없습니다.</p></li>
+						<li><strong>노블레스 스킬 41 포인트인 길드</strong><p>주간미션 10SP, 지하수로 19SP, 플래그 12~14SP 획득으로 [크리티컬 데미지 30%, 데미지 30%, 보스 데미지 22%] 사용 가능합니다.</p></li>
+						<li><strong>비슷한 성향의 [<a href="http://www.inven.co.kr/board/maple/2302/15420" title="별빛토끼 길드 소개글" target="_blank" rel="noopener noreferrer">별빛토끼 길드</a>, <a href="http://www.inven.co.kr/board/maple/2302/17955" title="꼬맹이 길드 소개글" target="_blank" rel="noopener noreferrer">꼬맹이 길드</a>]와 연합</strong><p>길드마다 운영은 조금씩 다르겠지만 저희 길드 연합의 공통점은 나이, 레벨 무관하게 서로 매너 플레이 하며 잘 지내는 것입니다.</p></li>
+						<li><strong>노말 스데미부터 노말윌까지 연합 팟 존재</strong><p>연합원끼리 보스 트라이부터 격파까지 서로 의지하며 플레이합니다.</p></li>
+						<li><strong>매 분기 소소한 이벤트 진행</strong><p>매 반복되는 일퀘, 사냥에 지친 길드원분들을 위하여 새로운 활력소가 될 수 있도록 진행하겠습니다.</p></li>
+					</ol>
+				</div>
+			</section>
+			<hr>
+			<section>
+				<h2>허무 길드 공지사항</h2>
+				<div class="SetPaddingL">
+					<h3>길마가 바라는 핵심 3가지</h3>
+					<div class="SetPaddingL SetPaddingB">
+						<ol>
+							<li>타인에게 불쾌감을 주는 행동 X.</li>
+							<li>등급별 출석횟수 채우기 필수.</li>
+							<li><u class="help-tip"><span>토요일 20:25분까지 19채 길드 전당(헤네시스 NPC 레아에게 말)에서 진행합니다.<br>파티가 다 꾸려지고 입장이라는 채팅이 보이시면 NPC 다이달을 통해 2번 들어오시면됩니다.<br>인증은 자동으로 되며 파티 구성과 동시에 등업됩니다.</span></u>, <u class="help-tip">플래그 5회<span>매 12시, 19시, 21시에 머리위로 날라오는 초대장을 받으셔서 입장하여, 퇴장맵에서 스크린샷을 찍어 인증해주시면됩니다.<br>인증 5회시 허무 길드 문의 톡방에 들어오셔서 등업요청 하시면 됩니다.</span></u>, <u class="help-tip">봉사 30분<span>길드 인지도를 위해 바라는 것 없이 도움이 필요한 타인을 도와주면됩니다.<br>예를들면 약해서 길뚫을 못하고 있는 분을 도와준다거나, 경뿌나 헤도, 하울링 같은 버프 지원도 괜찮습니다.<br>위 예시 말고도 도움이 필요하신분을 도와주신다면 인정되며, 허무 길드 문의 톡방에 들어오셔서 등업요청 하시면 됩니다.</span></u> 중 1개 권장 참여.<p>인증해주시면 4주간 노블 사용가능해요!</p></li>
+						</ol>
+					</div>
+
+					<h3>길드 문의</h3>
+					<div class="SetPaddingL SetPaddingB">
+						<p>길드 내,외 문제들과 길드운영관련 조언들 많이 부탁드리겠습니다.</p>
+						<p>문의: 하단의 <a href="#LblSupport" title="홈페이지 문의">홈페이지로 문의</a> 버튼 확인</p>
+					</div>
+
+					<h3>길드내 컨텐츠</h3>
+					<div class="SetPaddingL SetPaddingB">
+						<ul>
+							<li>매주 토요일 20:25분 지하수로 샤레니안 운영</li>
+							<li>19채널 헤네시스 궁수 교육원 길집</li>
+						</ul>
+					</div>
+
+					<h3>길드 등급 및 등급별 기여도</h3>
+					<div class="SetPaddingL SetPaddingB">
+						<ol>
+							<li><strong>신입 등급</strong><p>정의: 본캐확인이 불가하거나 수로, 플래그 미참여한 길드원<br>필수: 1주 출석횟수 1회 이상<br>혜택: 없음.</p></li>
+							<li><strong>10일차 등급</strong><p>정의: 출석횟수가 60회 미만인 길드원<br>필수: 2주 출석횟수 1회 이상<br>혜택: 노블레스 스킬 사용가능</p></li>
+							<li><strong>60일차 등급</strong><p>정의: 출석횟수가 60회 이상인 길드원<br>필수: 4주 출석횟수 1회 이상<br>혜택: 하위등급 혜택 및 허무길드에 부캐 가입 가능</p></li>
+							<li><strong>300일차 등급</strong><p>정의: 부마 또는 출석횟수가 300회 이상인 길드원<br>필수: 7주 출석횟수 1회 이상<br>혜택: 없음.</p></li>
+						</ol>
+					</div>
+
+					<h3>타인에게 불쾌감을 주는 행동</h3>
+					<div class="SetPaddingL SetPaddingB">
+						<h4>강력 제제 사항</h4>
+						<div class="SetPaddingL SetPaddingB">
+							<p>문제 제기한분이 처벌불원시 제제 없음.</p>
+							<ul>
+								<li>거짓말, 욕설</li>
+								<li>사냥터에서 사냥중이신 분이 있나 확인하지 않고 공격 스킬 사용시</li>
+								<li>보스 납치, 보스 매칭 후 3인 이상 파티에서 파티원 추방</li>
+								<li>비꼬는 말투, 반말(상대가 먼저 한경우 상관X), 시비(선시비 걸렸으면 그냥 차단 부탁드립니다)</li>
+								<li>정치, 종교, 지역, 나이, 성별 관련 혐오 및 자기생각 발언</li>
+								<li>단타 (한 문장으로 말할 수 있는거 4번 이상 끊어치는 행동)</li>
+								<li>문제 해결과정에서 7일 이상 쪽지 미확인</li>
+							</ul>
+						</div>
+						<h4>지켜줬으면 힘이 되는 사항</h4>
+						<div class="SetPaddingL SetPaddingB">
+							<ul>
+								<li>답이 정해져있지 않는 질문관련 금지 (ex 시그너스가 좋아요? 레지스탕스가 좋아요?)</li>
+								<li>연합, 길드채팅에서는 호칭 "님"으로 통일 (ex 쌀가지님, 가지님)</li>
+								<li>연합, 길드채팅에서 헤비, 라이트, 메린이 등등 스팩관련하여 어그로 금지</li>
+								<li>인게임 외 채팅(디스코드, 카톡)을 연합, 길드채팅으로 대답 금지</li>
+							</ul>
+						</div>
+						<p>이 외 추가해야할 것들 있으면 문의 부탁드립니다.</p>
+					</div>
+
+					<h3>단톡방 및 디코방 [필수X]</h3>
+					<div class="SetPaddingL SetPaddingB">
+						<p class="SetPaddingB">가입시 원활한 소통을 위해 닉네임을 게임닉으로 맞춰주세요.<br>입장하고 필히 공지먼저 읽고 채팅부탁드립니다.</p>
+						<ul>
+							<li><strong>길드 친목 단톡:</strong><p>자유로운 소통 및 친목을 위해 만들었습니다.</p><p>가입방법: 카카오톡 - 오픈채팅 - "허무길드" 검색 - 단톡방 가입 (비밀번호: "1233")</p></li>
+							<li><strong>연합 소식, 보스 단톡:</strong><p>메이플 소식, 길드 소식, 보스파티를 구성하기 위해 만들었습니다.</p><p>가입방법: 카카오톡 - 오픈채팅 - "허무연합" 검색 - 단톡방 가입 (비밀번호: "1233")</p></li>
+							<li><strong>연합 디코방:</strong><p>연합의 자유로운 소통 및 친목, 정보공유를 위해 만들었습니다.</p><p>가입방법: <a href="https://discord.com/invite/chW6Nrd" title="길드 연합 디스코드">연합 디코방</a> 방문</p></li>
+						</ul>
+					</div>
+
+					<h3>부캐 육성 길드</h3>
+					<div class="SetPaddingL SetPaddingB">
+						<p>공허 길드에서는 사냥하며 심심할때, 길드효과가 필요할때를 위해 편하게 가입을 위해 만들었습니다.</p>
+						<p>필요하신분은 가입 부탁드립니다.</p>
+					</div>
+				</div>
+			</section>
+			<hr>
+			<section>
+				<h2 id="LblSupport">가입 희망시</h2>
+				<div class="SetPrepareFloat">
+					<div class="SetHalfWidth SetDivideWidth">
+						<a href="/support/" class="CustomButton SetMaxWidth" title="홈페이지로 문의">홈페이지로 문의</a>
+					</div>
+					<div class="SetHalfWidth SetDivideWidth">
+						<a href="https://open.kakao.com/o/gqef7SPb" class="CustomButton SetMaxWidth" title="카톡으로 문의" target="_blank" rel="noopener noreferrer">카톡으로 문의</a>
+					</div>
+				</div>
+			</section>
+		</main>
